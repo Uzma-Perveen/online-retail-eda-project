@@ -15,10 +15,8 @@ This project fulfills the following goals as outlined in the official assignment
 | `Online_Retail_EDA.ipynb` | Jupyter Notebook with all data cleaning, EDA, and RFM analysis |
 | `Online_Retail_EDA_Dashboard.pbix` | Power BI dashboard file |
 | `Cleaned_Online_Retail.csv` | Full cleaned dataset (excluded from GitHub due to size) |
-| `Retail_Sample.csv` | Sample of 10,000 cleaned rows (uploaded instead of full file) |
 | `RFM_Segmentation.csv` | Table of customer RFM scores and segments |
 | `README.md` | Full project overview and documentation |
-| `Retail_Full.zip` | Compressed version of large CSV file (optional upload) |
 ---
 ## 🧪 Technologies Used
 - **Python 3**
