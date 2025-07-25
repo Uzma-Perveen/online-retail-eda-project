@@ -78,6 +78,8 @@ The `.pbix` file contains 4 pages:
 - Map visual: Revenue by country
 - Bar chart: Top 10 countries by revenue
 ---
-
+## 📌 Dataset Source (Kaggle):
+Online Retail II Dataset – Kaggle
+---
 ## 📩 Questions?
 Feel free to fork, star ⭐, or connect with me on GitHub!
